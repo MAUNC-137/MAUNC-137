@@ -1,17 +1,14 @@
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ ● ● ●  maunc@unsil:~$  [MAUNC // TELEMETRY & IDENTITY]                 [STATUS: ONLINE]│
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                        │
-│   ███    ███   █████  ██    ██ ███    ██  ██████   [SYS.ID]      MAUNC-CORE // 137     │
-│   ████  ████  ██   ██ ██    ██ ████   ██ ██        [AFFILIATION] UNIVERSITAS SILIWANGI │
-│   ██ ████ ██  ███████ ██    ██ ██ ██  ██ ██        [FACULTY]     FAKULTAS TEKNIK       │
-│   ██  ██  ██  ██   ██ ██    ██ ██  ██ ██ ██        [CORE FOCUS]  IOT & ROBOTICS LAB    │
-│   ██      ██  ██   ██  ██████  ██   ████  ██████   [LOCATION]    TASIKMALAYA, ID       │
-│                                                                                        │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│  ORGANIZATION : Mechanical Autonomous Navigation Control                               │
-│  AFFILIATION  : Universitas Siliwangi · Fakultas Teknik                                │
-│  COMMUNITY    : Komunitas IoT & Sistem Kendali Otonom Mahasiswa                        │
-│  CORE DOMAINS : Internet of Things · Robotics · Embedded Systems · Autonomous Systems  │
-│  ENVIRONMENT  : Collaborative Learning · Open Research · Hands-on Engineering          │
-└────────────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ maunc@unsil:~$ ./community --identity                                        │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│                ███    ███   █████  ██    ██ ███    ██  ██████                │
+│                ████  ████  ██   ██ ██    ██ ████   ██ ██                     │
+│                ██ ████ ██  ███████ ██    ██ ██ ██  ██ ██                     │
+│                ██  ██  ██  ██   ██ ██    ██ ██  ██ ██ ██                     │
+│                ██      ██  ██   ██  ██████  ██   ████  ██████                │
+│                                                                              │
+│                   Mechanical Autonomous Navigation Control                   │
+│                    Komunitas IoT · Universitas Siliwangi                     │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘

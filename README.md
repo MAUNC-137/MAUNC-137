@@ -1,97 +1,70 @@
 ```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ ● ● ●  maunc@unsil:~$  [MAUNC // TELEMETRY & IDENTITY]                 [STATUS: ONLINE]│
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                        │
-│   ███    ███   █████  ██    ██ ███    ██  ██████   [SYS.ID]      MAUNC-CORE // 137     │
-│   ████  ████  ██   ██ ██    ██ ████   ██ ██        [AFFILIATION] UNIVERSITAS SILIWANGI │
-│   ██ ████ ██  ███████ ██    ██ ██ ██  ██ ██        [FACULTY]     FAKULTAS TEKNIK       │
-│   ██  ██  ██  ██   ██ ██    ██ ██  ██ ██ ██        [CORE FOCUS]  IOT & ROBOTICS LAB    │
-│   ██      ██  ██   ██  ██████  ██   ████  ██████   [LOCATION]    TASIKMALAYA, ID       │
-│                                                                                        │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│  ORGANIZATION : Mechanical Autonomous Navigation Control                               │
-│  AFFILIATION  : Universitas Siliwangi · Fakultas Teknik                                │
-│  COMMUNITY    : Komunitas IoT & Sistem Kendali Otonom Mahasiswa                        │
-│  CORE DOMAINS : Internet of Things · Robotics · Embedded Systems · Autonomous Systems  │
-│  ENVIRONMENT  : Collaborative Learning · Open Research · Hands-on Engineering          │
-└────────────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ maunc@unsil:~$ ./community --identity                                        │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│                ███    ███   █████  ██    ██ ███    ██  ██████                │
+│                ████  ████  ██   ██ ██    ██ ████   ██ ██                     │
+│                ██ ████ ██  ███████ ██    ██ ██ ██  ██ ██                     │
+│                ██  ██  ██  ██   ██ ██    ██ ██  ██ ██ ██                     │
+│                ██      ██  ██   ██  ██████  ██   ████  ██████                │
+│                                                                              │
+│                   Mechanical Autonomous Navigation Control                   │
+│                    Komunitas IoT · Universitas Siliwangi                     │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-`IOT & SENSOR NETWORKS` &nbsp;•&nbsp; `ROBOTICS & KINEMATICS` &nbsp;•&nbsp; `EMBEDDED FIRMWARE` &nbsp;•&nbsp; `AUTONOMOUS CONTROL`
+`BELAJAR` &nbsp;•&nbsp; `BEREKSPERIMEN` &nbsp;•&nbsp; `BERKEMBANG`
 
 </div>
 
 ---
 
-### // ABOUT MAUNC
+### // TENTANG MAUNC
 
-**MAUNC** (*Mechanical Autonomous Navigation Control*) merupakan komunitas IoT Universitas Siliwangi yang menjadi wadah pembelajaran, eksplorasi, eksperimen, dan pengembangan teknologi melalui pendekatan praktis dan kolaboratif.
+**MAUNC** (*Mechanical Autonomous Navigation Control*) merupakan komunitas IoT Universitas Siliwangi yang menjadi wadah bagi mahasiswa untuk belajar, mengeksplorasi, dan mengembangkan minat di bidang teknologi.
 
-Komunitas ini didirikan sebagai ruang rekayasa teknologi bagi mahasiswa lintas disiplin ilmu di lingkungan Universitas Siliwangi untuk mendalami teknologi sistem terhubung (*connected systems*), instrumentasi perangkat keras cerdas, dan kendali mandiri (*autonomous systems*). Melalui semangat riset terapan dan eksperimen laboratorium, anggota MAUNC berkolaborasi mengasah kemampuan teknis mulai dari formulasi konsep fundamental hingga perwujudan purwarupa fungsional.
-
----
-
-### // SYSTEM SPECIFICATION & OVERVIEW
-
-| Parameter | Spesifikasi / Metadata Komunitas |
-| :--- | :--- |
-| **Entitas Resmi** | **MAUNC** *(Mechanical Autonomous Navigation Control)* |
-| **Bentuk Organisasi** | Komunitas Teknologi & Riset IoT Mahasiswa |
-| **Institusi Induk** | **Universitas Siliwangi (UNSIL)** · Tasikmalaya, Jawa Barat |
-| **Fokus Rekayasa** | Internet of Things (IoT), Robotika, Embedded Firmware, Sistem Kendali Otonom |
-| **Metodologi Kerja** | *Hands-on Engineering*, Purwarupa Cepat (*Rapid Prototyping*), & *Open Collaboration* |
-| **Status Organisasi** | Aktif · Repositori Riset & Proyek Terbuka (`MAUNC-137`) |
+Komunitas ini sedang dalam tahap membangun kembali aktivitas dan rutinitas belajarnya. Melalui diskusi santai, eksperimen perangkat keras sederhana, dan proyek bersama, kami berproses untuk memahami dasar-dasar rekayasa teknologi dan tumbuh bersama dari tingkat paling awal.
 
 ---
 
-### // SUBSYSTEM DOMAINS & ENGINEERING FOCUS
+### // BIDANG MINAT
 
-```text
-/sys/iot            -> Sensor Nodes, Arsitektur Telemetri, Protokol Nirkabel, Cloud Integration
-/sys/robotics       -> Kinematika Mekanik, Sistem Aktuator, Trajectory Control, Desain Rangka
-/sys/embedded       -> Firmware Mikroarsitektur (C/C++), RTOS Kernel, Bare-Metal Driver
-/sys/electronics    -> Skematik Sirkuit, Desain Layout PCB (KiCad), Power Distribution System
-/sys/autonomous     -> Estimasi Posisi, Fusi Sensor Multi-Modal, Algoritma Kendali Terprogram
-/sys/automation     -> Otomasi Instrumentasi Rekayasa, Monitoring Kondisi, Industrial Testbed
-```
+Beberapa bidang teknologi yang menjadi fokus eksplorasi dan pembelajaran kami meliputi:
 
-- **Internet of Things (IoT)** — Perancangan simpul sensor nirkabel berdaya rendah, manajemen protokol telemetri terdistribusi (MQTT, HTTP, LoRa), serta integrasi dasbor pemantauan data waktu-nyata (*real-time monitoring*).
-- **Robotics & Kinematics** — Eksplorasi struktur robotika terprogram, kalkulasi kinematika gerak, sinkronisasi aktuator mekanik, dan perancangan fisik fungsional.
-- **Embedded Systems & Firmware** — Pengembangan kode pemrograman mikrokontroler (*ESP32, STM32, Arduino, ARM Cortex*) dengan optimasi efisiensi daya, manajemen interupsi perangkat keras, dan penjadwalan *Real-Time Operating System* (RTOS).
-- **Electronics & PCB Design** — Perancangan skematik elektronika terpadu, perutean jalur papan sirkuit cetak (*Printed Circuit Board*), pengondisian sinyal analog, dan manajemen daya sistem cerdas.
-- **Autonomous Systems** — Implementasi algoritma kendali mandiri, pemrosesan sensorik lingkungan (IMU, LiDAR, Visi Komputer), serta navigasi otonom berbasis jalur.
-- **Engineering & Automation** — Otomasi sistem rekayasa perangkat keras, instrumentasi uji laboratorium, dan integrasi mekatronika terapan.
+- **Internet of Things (IoT)** — Eksplorasi sensor nirkabel dan pengiriman data terhubung.
+- **Robotics** — Pengenalan mekanika dasar, aktuasi, dan kendali gerak robotik.
+- **Electronics** — Belajar dasar rangkaian elektronika, komponen, dan perakitan sirkuit.
+- **Embedded Systems** — Pemrograman mikrokontroler (*seperti Arduino dan ESP32*) untuk proyek praktis.
+- **Autonomous Systems** — Minat dalam mempelajari algoritma navigasi otomatis dan kendali mandiri.
 
 ---
 
-### // COMMUNITY & COLLABORATION
+### // KEGIATAN & PEMBELAJARAN
 
-Sebagai komunitas mahasiswa berbasis rekayasa teknologi, MAUNC berlandaskan pada tiga pilar pembelajaran:
+> *"Belajar bersama, bereksperimen, dan berkembang dalam teknologi."*
 
-- **Hands-on Experimentation** — Menguji konsep teoritis secara langsung melalui perangkat keras nyata, perakitan fisik sirkuit, dan pengujian lapangan.
-- **Collaborative Learning** — Belajar bersama secara terbuka, saling mengulas rancangan skematik dan kode program (*peer review*), serta mendokumentasikan setiap proses iterasi riset.
-- **Open Engineering** — Membangun modul pustaka pendukung, kerangka kerja perangkat lunak, dan dokumentasi teknis secara terstruktur agar bermanfaat bagi kemajuan ekosistem teknologi kampus.
+Sebagai komunitas mahasiswa yang baru aktif kembali, kami mengedepankan lingkungan belajar yang terbuka, suportif, dan ramah bagi pemula. Di sini, setiap anggota diajak untuk saling berbagi wawasan, mencoba eksperimen langsung (*hands-on*), serta belajar dari proses uji coba pembuatan purwarupa.
 
 ---
 
-### // PROJECTS & REPOSITORIES
+### // PROYEK & DOKUMENTASI
 
 > [!NOTE]
-> Profil organisasi GitHub MAUNC (`MAUNC-137`) saat ini berfungsi sebagai wadah sentralisasi riset dan repositori proyek teknologi mahasiswa. Repositori kode sumber *firmware*, modul purwarupa, pustaka periferal, dan rancangan skematik perangkat keras komunitas akan dipublikasikan secara bertahap seiring berjalannya proyek rekayasa aktif.
+> Organisasi GitHub MAUNC ini baru dibentuk seiring dimulainya kembali pertemuan komunitas. Dokumentasi catatan belajar, panduan eksperimen, serta repositori proyek akan ditambahkan secara bertahap seiring berjalannya kegiatan.
 
 ---
 
-### // DIRECTORY & VERIFICATION
+### // TAUTAN
 
-- **GitHub Organization**: [`MAUNC-137`](https://github.com/MAUNC-137)
-- **LinkedIn Community**: [MAUNC (Mechanical Autonomous Navigation Control)](https://www.linkedin.com/company/maunc/)
-- **Institusi Akademik**: [Universitas Siliwangi (UNSIL)](https://unsil.ac.id/)
+- **LinkedIn**: [MAUNC (Mechanical Autonomous Navigation Control)](https://www.linkedin.com/company/maunc/)
+- **Institusi**: [Universitas Siliwangi (UNSIL)](https://unsil.ac.id/)
 
 ---
 
 <div align="center">
-<sub>[ MAUNC-137 ] · Mechanical Autonomous Navigation Control · Universitas Siliwangi · Tasikmalaya, Jawa Barat, Indonesia</sub>
+<sub>MAUNC · Komunitas IoT Universitas Siliwangi · Tasikmalaya, Jawa Barat</sub>
 </div>
