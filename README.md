@@ -1,21 +1,6 @@
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ maunc@unsil:~$ ./community --identity                                        │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│                ███    ███   █████  ██    ██ ███    ██  ██████                │
-│                ████  ████  ██   ██ ██    ██ ████   ██ ██                     │
-│                ██ ████ ██  ███████ ██    ██ ██ ██  ██ ██                     │
-│                ██  ██  ██  ██   ██ ██    ██ ██  ██ ██ ██                     │
-│                ██      ██  ██   ██  ██████  ██   ████  ██████                │
-│                                                                              │
-│                   Mechanical Autonomous Navigation Control                   │
-│                    Komunitas IoT · Universitas Siliwangi                     │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
 <div align="center">
+
+<img src="assets/Logo%20Terminal%20ASCII%20MAUNC.png" alt="MAUNC Terminal ASCII" width="100%" />
 
 `BELAJAR` &nbsp;•&nbsp; `BEREKSPERIMEN` &nbsp;•&nbsp; `BERKEMBANG`
 
